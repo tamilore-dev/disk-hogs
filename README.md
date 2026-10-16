@@ -1,4 +1,4 @@
-big-files-finder
+# big-files-finder
 
   A small Python CLI that walks a directory tree and prints the largest files
   it finds, sorted by size, with human-readable formatting.
